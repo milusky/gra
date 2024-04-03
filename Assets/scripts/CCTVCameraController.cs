@@ -4,6 +4,8 @@ using UnityEngine;
 using UnityEngine.UIElements;
 
 public class CCTVCameraController : MonoBehaviour
+
+
 {  //modyfikator prędkości obrotu
     public float turnSpeed = 5f;
 

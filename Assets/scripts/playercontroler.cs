@@ -8,7 +8,6 @@ public class PlayerController : MonoBehaviour
     Rigidbody rb;
     //si³a skoku
     public float jumpForce = 5f;
-
     public float moveSpeed = 5f;
     // Start is called before the first frame update
     void Start()
